@@ -1,0 +1,70 @@
+body{
+  margin: 20;
+  border: 0;
+}
+
+.boxone{
+    margin: 0;
+    border: 0;
+    width: 400px;
+    height: 400px;
+    background: red;
+    color: red;
+}
+
+.boxtwo{
+  margin: 0;
+  border: 0;
+  width: 200px;
+  height: 200px;
+  background: #B404AE;
+  color: #B404AE;
+  position: absolute;
+  left: 105px;
+  top: 105px;
+}
+
+.boxthree{
+  margin: 0;
+  border: 0;
+  width: 100px;
+  height: 100px;
+  background: yellow;
+  color: yellow;
+  position: absolute;
+  left: 105px;
+  top: 105px;
+}
+
+.boxfor{
+  margin-top: 20;
+  border: 0;
+  width: 400px;
+  height: 400px;
+  background: blue;
+  color: blue;
+}
+
+.boxfigth{
+  margin: 0;
+  border: 0;
+  width: 200px;
+  height: 200px;
+  background: green;
+  color: green;
+  position: absolute;
+  left: 110px;
+  top: 530px;
+}
+
+.boxsix{
+  margin: 0;
+  border: 0;
+  width: 100px;
+  height: 100px;
+  background: black;
+  color: black;
+  position: absolute;
+  left: 7.5px;
+  top: 430px;
+}
